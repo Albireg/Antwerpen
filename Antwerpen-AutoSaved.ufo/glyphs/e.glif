@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="1">
+  <advance width="500"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="25" y="500" type="line"/>
+      <point x="125" y="500" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="175" type="line"/>
+      <point x="105" y="270" type="line"/>
+      <point x="370" y="270" type="line"/>
+      <point x="370" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="405" type="line"/>
+      <point x="105" y="500" type="line"/>
+      <point x="470" y="500" type="line"/>
+      <point x="470" y="405" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="105" y="95" type="line"/>
+      <point x="475" y="95" type="line"/>
+      <point x="475" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>561</integer>
+          <key>y</key>
+          <integer>32</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
